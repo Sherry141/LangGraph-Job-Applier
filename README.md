@@ -10,7 +10,7 @@ This Streamlit application assists users in finding jobs and generating personal
 
 ## Running the Application
 Clone this repository:
-`git clone <your-repo-url>`
+`git clone https://github.com/Sherry141/LangGraph-Job-Applier`
 
 Launch the Streamlit app:
 `streamlit run job_applier_advanced_streamlit.py`
