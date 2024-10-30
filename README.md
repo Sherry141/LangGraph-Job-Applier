@@ -16,7 +16,9 @@ Launch the Streamlit app:
 `streamlit run job_applier_advanced_streamlit.py`
 
 ## Logic Flow and Graph Nodes
-This application uses LangGraph to define and manage the flow of the job search and cover letter generation. Below is an overview of each graph node and the logic flow:
+This application uses LangGraph to define and manage the flow of the job search and cover letter generation. Below is an overview of each graph node and the logic flow. 
+
+![Graph Logic](images/graph_image.png)
 
 ### 1. Chatbot Node
  - Purpose: Serves as the primary interface for handling user requests and responses.
