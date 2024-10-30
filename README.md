@@ -1,4 +1,4 @@
-# Job Applier - Streamlit Application
+# Job Applier - LangGraph Application
 
 This Streamlit application assists users in finding jobs and generating personalized cover letters. It uses LangGraph to control the job search flow, integrating Google Jobs and a language model to generate relevant job suggestions based on user input. If the user approves a job, a cover letter is automatically created for them.
 
